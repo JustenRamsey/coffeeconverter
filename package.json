@@ -1,0 +1,16 @@
+{
+  "name": "coffee-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://justenramsey.github.io/coffeeconverter",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
